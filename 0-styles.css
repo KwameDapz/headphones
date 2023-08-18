@@ -39,3 +39,29 @@ header{
     margin-right: 15%;
     flex-shrink: 0;
 }
+
+a:hover {
+    text-decoration: none;
+    color: #FF6565;
+}
+
+.cover-page {
+    width: auto;
+    height: 50 rem;
+}
+
+div a {
+    color: #FFF;
+    font-family: source sans Pro;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paragraph {
+    width: 50rem;
+    height: 60rem;
+    flex-shrink: 0;
+    margin: 20%;
+}
+
