@@ -9,3 +9,16 @@ body {
     width: fit-content;
     background-image: url(images/headphones_hero_1.jpg)
 }
+
+header{
+    margin-top: 10px;
+    width: auto;
+    background: #FFF;
+    border: 0px;
+    height: 20px;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+}
+
