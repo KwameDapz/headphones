@@ -84,3 +84,14 @@ p {
     line-height: normal;
 }
 
+.long {
+    width: 40rem;
+    margin-left: 6rem;
+}
+
+button {
+    margin: 2%;
+    margin-left: 20rem;
+    color: #760e0e;
+    text-align: center;
+}
