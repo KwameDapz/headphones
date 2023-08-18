@@ -22,3 +22,10 @@ header{
     background: transparent;
 }
 
+.header-logo {
+    display: flex;
+    margin-left: 1%;
+    width: 10.0625rem;
+    height: 2rem;
+    flex-shrink: 0;
+}
