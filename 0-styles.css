@@ -2,3 +2,10 @@ body {
     border: 0px;
     height: 90vh;
 }
+
+.cover-page{
+    overflow: hidden;
+    border: 0px;
+    width: fit-content;
+    background-image: url(inmages/headphones_hero_1.jpg)
+}
