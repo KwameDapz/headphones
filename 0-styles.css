@@ -22,7 +22,7 @@ header{
     background: transparent;
 }
 
-.header-logo {
+.logo {
     display: flex;
     margin-left: 1%;
     width: 10.0625rem;
