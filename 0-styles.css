@@ -29,3 +29,13 @@ header{
     height: 2rem;
     flex-shrink: 0;
 }
+
+.navlinks {
+    display: inline-flex;
+    height: 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5625rem;
+    margin-right: 15%;
+    flex-shrink: 0;
+}
