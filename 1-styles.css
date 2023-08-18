@@ -1,0 +1,107 @@
+body {
+    border: 0px;
+    height: 90vh;
+}
+
+.cover-page{
+    overflow: hidden;
+    border: 0px;
+    width: fit-content;
+    background-image: url(images/headphones_hero_1.jpg)
+}
+
+header{
+    margin-top: 10px;
+    width: auto;
+    background: #FFF;
+    border: 0px;
+    height: 20px;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+}
+
+.logo {
+    display: flex;
+    margin-left: 1%;
+    width: 10.0625rem;
+    height: 2rem;
+    flex-shrink: 0;
+}
+
+.navlinks {
+    display: inline-flex;
+    height: 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5625rem;
+    margin-right: 15%;
+    flex-shrink: 0;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FF6565;
+}
+
+.cover-page {
+    width: auto;
+    height: 50 rem;
+}
+
+div a {
+    color: #FFF;
+    font-family: Spin-Cycle-OT;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paragraph {
+    width: 50rem;
+    height: 60rem;
+    flex-shrink: 0;
+    margin: 20%;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.625rem; /*162.5% */
+}
+
+.Intro {
+    color: #FFF;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 2rem;
+    font-style: 700;
+    line-height: normal;
+}
+
+.long {
+    width: 40rem;
+    margin-left: 6rem;
+}
+
+button {
+    margin: 2%;
+    margin-left: 20rem;
+    color: #FFF;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 1.375rem;
+    background: #FF6565;
+    width: 10.125rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+}
