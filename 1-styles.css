@@ -102,3 +102,14 @@ button {
     height: 2.75rem;
     flex-shrink: 0;
 }
+
+.service{
+    border: 0px;
+    height: 90vh; 
+}
+
+.what-to-do {
+    text-align: center;
+    display: flex;
+     
+}
