@@ -6,7 +6,8 @@ body {
 .cover-page{
     overflow: hidden;
     border: 0px;
-    width: fit-content;
+    height: 50rem;
+    width: auto;
     background-image: url(images/headphones_hero_1.jpg)
 }
 
@@ -45,10 +46,6 @@ a:hover {
     color: #FF6565;
 }
 
-.cover-page {
-    width: auto;
-    height: 50 rem;
-}
 
 div a {
     color: #FFF;
