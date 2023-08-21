@@ -1,3 +1,30 @@
+@font-face {
+    font-family: 'holberton_school-icon';
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4');
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4#iefix') format('embedded-opentype'),
+      url('fonts/holberton_school-icon.ttf?sq4eq4') format('truetype'),
+      url('fonts/holberton_school-icon.woff?sq4eq4') format('woff'),
+      url('fonts/holberton_school-icon.svg?sq4eq4#holberton_school-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+  [class^="holberton_school-icon-"], [class*=" holberton_school-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'holberton_school-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
 body {
     border: 0px;
     height: 90vh;
@@ -103,13 +130,26 @@ button {
     flex-shrink: 0;
 }
 
-.service{
-    border: 0px;
-    height: 90vh; 
+.what-we-do {
+    background: #fff;
+    height: 187.875vh;
+    width: 87.5rem;
 }
 
 .post {
-    text-align: center;
+    margin: 10%;
+    margin-left: 22%;
+    overflow: inherit;
     display: flex;
-    color:black
+    width: 39.8125rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.0rem;
+    font-size: 1rem;
+}
+
+.service {
+    display:flex;
+    color: #071629;
 }
