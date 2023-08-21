@@ -156,4 +156,7 @@ button {
 .service {
     display:flex;
     color: #071629;
+    display: flex;
+    justify-content: center;
+
 }
