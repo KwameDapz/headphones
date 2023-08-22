@@ -202,7 +202,8 @@ button {
     top: 50%;
     left: 35%;
     color: #fff;
-
+    font-style: normal;
+    font-size: medium;
 }
 
 
