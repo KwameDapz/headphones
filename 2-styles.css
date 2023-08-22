@@ -171,11 +171,8 @@ button {
 .our {
     color:#fff;
     font-family: Spin-Cycle-OT;
-    font-size: 1rem;
     font-style: normal;
-}
-   
-.word {
+    font-size: 2rem;
     margin: 10%;
     margin-left: 22%;
     overflow: inherit;
@@ -184,9 +181,10 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1.0rem;
-    font-size: 2rem;
+    gap: 1.0rem; 
 }
+
+   
 
 .out {
     display: flex;
