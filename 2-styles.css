@@ -175,7 +175,10 @@ button {
     font-style: normal;
 }
    
-
+.word {
+    display: flex;
+    justify-content: center;
+}
 
 
 
