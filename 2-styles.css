@@ -170,9 +170,16 @@ button {
 
 .our {
     color:#fff;
+    font-family: Spin-Cycle-OT;
+    font-size: 0.875rem;
+    font-style: normal;
+    
+
 }
 
 .word {
     display: flex;
     justify-content: center;
 }
+
+
