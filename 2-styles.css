@@ -187,7 +187,6 @@ button {
 .out {
     gap: 10px;
     resize: both;
-    padding: 1px;
     overflow: auto;
     display: inline-flex;
    align-content: center;
