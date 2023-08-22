@@ -182,7 +182,14 @@ button {
 
 .indict {
     display: flex; 
-    justify-content: center;
+    text-align: center;
+}
+
+.out {
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    flex-shrink: inherit;
 }
 
 
