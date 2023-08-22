@@ -189,7 +189,7 @@ button {
     margin: 3%;
     display: flex;
     align-items: center;
-    flex-shrink: 3;
+    flex-shrink: 1;
 }
 
 
