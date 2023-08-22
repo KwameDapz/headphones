@@ -199,10 +199,8 @@ button {
 
 .lorem {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-    display: flex;
-    justify-content: center;
+    top: 50%;
+    left: 50%;
 }
 
 
