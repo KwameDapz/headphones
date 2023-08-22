@@ -177,6 +177,7 @@ button {
    
 
 .word {
+    display: flex;
     justify-content: center;
 }
 
