@@ -176,13 +176,16 @@ button {
 }
    
 .word {
+    margin: 10%;
+    margin-left: 22%;
+    overflow: inherit;
     display: flex;
+    width: 39.8125rem;
+    flex-direction: column;
     justify-content: center;
-}
-
-.indict {
-    display: flex; 
-    text-align: center;
+    align-items: center;
+    gap: 1.0rem;
+    font-size: 1rem;
 }
 
 .out {
