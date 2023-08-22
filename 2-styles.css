@@ -188,10 +188,9 @@ button {
 .out {
     margin: 3%;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    align-items: baseline;
     flex-shrink: 5;
-    width: 10.125rem;
-    height: 5rem;
 }
 
 
