@@ -180,6 +180,12 @@ button {
     justify-content: center;
 }
 
+.ours {
+    display: flex;
+    wrap: nowrap;
+    justify-content: center;
+}
+
 
 
 
