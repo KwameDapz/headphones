@@ -181,8 +181,7 @@ button {
 }
 
 .indict {
-    display: flex;
-    wrap: nowrap;
+    display: flex; 
     justify-content: center;
 }
 
