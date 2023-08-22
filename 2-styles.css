@@ -172,6 +172,5 @@ button {
     color:#fff;
     display: flex;
     margin: 10%;
-    align-items: center;
-    
+    justify-content: center;    
 }
