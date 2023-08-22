@@ -173,12 +173,13 @@ button {
     font-family: Spin-Cycle-OT;
     font-size: 2rem;
     font-style: normal;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.0rem;
+    font-size: 1rem;
 }
 
-.word {
-    display: flex;
-    justify-content: center;
-}
 
 
 
