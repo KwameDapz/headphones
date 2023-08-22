@@ -189,8 +189,9 @@ button {
 .out {
     gap: 10px;
     resize: both;
-    width: 39rem;
-    height: 40rem;
+
+    width: 25rem;
+    height: 25rem;
     display: flex;
    align-content: center;
 }
