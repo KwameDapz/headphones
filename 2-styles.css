@@ -187,14 +187,7 @@ button {
    
 
 .out {
-    margin: 2%;
-    margin-left: 20rem;
-    display: flex;
-    justify-content: baseline;
-    gap: 10px;
-    width: 10.125rem;
-    height: 2.75rem;
-    flex-shrink: 0;
+   
 }
 
 .box-1 {
