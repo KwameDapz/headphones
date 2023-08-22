@@ -192,6 +192,17 @@ button {
     flex-shrink: 1;
 }
 
+.box-1 {
+    position: relative;
+    text-align: center;
+}
+
+.lorem {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
 
 
 
