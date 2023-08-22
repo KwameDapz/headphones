@@ -187,7 +187,8 @@ button {
    
 
 .out {
-   
+   display: flex;
+   align-content: center;
 }
 
 .box-1 {
