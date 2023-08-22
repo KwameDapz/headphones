@@ -186,10 +186,11 @@ button {
 }
 
 .out {
-    margin: 3%;
     display: flex;
+    justify-content: baseline;
+    gap: 10px;
     align-items: center;
-    flex-shrink: 1;
+    flex-shrink: 0;
 }
 
 .box-1 {
@@ -237,7 +238,6 @@ button {
 .box-4 {
     position: relative;
     text-align: center;
-    flex-shrink: calc(3%);
 }
 
 .sit {
