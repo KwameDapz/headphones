@@ -206,6 +206,33 @@ button {
     font-size: 2rem;
 }
 
+.box-2 {
+    position: relative;
+    text-align: center;
+}
+
+.ipsum {
+    position: absolute;
+    top: 45%;
+    left: 9%;
+    color: #fff;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.box-3 {
+    position: relative;
+    text-align: center;
+}
+
+.dolor {
+    position: absolute;
+    top: 45%;
+    left: 9%;
+    color: #fff;
+    font-style: normal;
+    font-size: 2rem;
+}
 
 
 
