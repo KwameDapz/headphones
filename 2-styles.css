@@ -237,6 +237,7 @@ button {
 .box-4 {
     position: relative;
     text-align: center;
+    flex-shrink: calc(3%);
 }
 
 .sit {
