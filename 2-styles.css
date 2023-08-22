@@ -187,6 +187,8 @@ button {
    
 
 .out {
+    resize: vertical;
+    overflow: auto;
     display: flex;
    align-content: center;
 }
