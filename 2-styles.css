@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'holberton_school-icon';
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4');
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4#iefix') format('embedded-opentype'),
+      url('fonts/holberton_school-icon.ttf?sq4eq4') format('truetype'),
+      url('fonts/holberton_school-icon.woff?sq4eq4') format('woff'),
+      url('fonts/holberton_school-icon.svg?sq4eq4#holberton_school-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+  [class^="holberton_school-icon-"], [class*=" holberton_school-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'holberton_school-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+body {
+    border: 0px;
+    height: 90vh;
+}
+
+.cover-page{
+    overflow: hidden;
+    border: 0px;
+    height: 50rem;
+    width: auto;
+    background-image: url(images/headphones_hero_1.jpg)
+}
+
+header{
+    margin-top: 10px;
+    width: auto;
+    background: #FFF;
+    border: 0px;
+    height: 20px;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+}
+
+.logo {
+    display: flex;
+    margin-left: 1%;
+    width: 10.0625rem;
+    height: 2rem;
+    flex-shrink: 0;
+}
+
+.navlinks {
+    display: inline-flex;
+    height: 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5625rem;
+    margin-right: 15%;
+    flex-shrink: 0;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FF6565;
+}
+
+
+div a {
+    color: #FFF;
+    font-family: Spin-Cycle-OT;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paragraph {
+    width: 50rem;
+    height: 60rem;
+    flex-shrink: 0;
+    margin: 20%;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.625rem; /*162.5% */
+}
+
+.Intro {
+    color: #FFF;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 2rem;
+    font-style: 700;
+    line-height: normal;
+}
+
+.long {
+    width: 40rem;
+    margin-left: 6rem;
+}
+
+button {
+    margin: 2%;
+    margin-left: 20rem;
+    color: #FFF;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 1.375rem;
+    background: #FF6565;
+    width: 10.125rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+}
+
+.what-we-do {
+    background: #fff;
+    height: 187.875vh;
+    width: 87.5rem;
+}
+
+.post {
+    margin: 10%;
+    margin-left: 22%;
+    overflow: inherit;
+    display: flex;
+    width: 39.8125rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.0rem;
+    font-size: 1rem;
+}
+
+.wedo {
+    color: black
+}
+
+.service {
+    display:flex;
+    color: #071629;
+    display: flex;
+    justify-content: center;
+}
+
+.our-results {
+    
+}
