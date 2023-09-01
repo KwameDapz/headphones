@@ -190,12 +190,16 @@ button {
     gap:1.0rem;
 }
 
-.Box {
+.Box-1 {
     position: relative;
     text-align: center;
 }
 
-.
+.lorem {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
 
 
 
