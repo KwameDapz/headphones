@@ -191,8 +191,7 @@ button {
 }
 .lorem{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    float: top;
 }
 
 
