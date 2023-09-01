@@ -187,8 +187,7 @@ button {
 .out {
     display: flex;
     justify-content: center;
-    align-items: Space-around;
-    gap:inherit;
+    gap:1.0rem;
 }
 
 
