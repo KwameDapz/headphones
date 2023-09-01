@@ -187,11 +187,9 @@ button {
 .out {
     display: flex;
     align-items: center;
+}
 
-}
-.box-1{
-    border-width: 0.6cm;
-}
+
 
 
 
