@@ -189,7 +189,11 @@ button {
     justify-content: center;
     gap:1.0rem;
 }
-
+.lorem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
