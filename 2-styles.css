@@ -194,14 +194,12 @@ button {
     Position: relative;
     top: 25px;
     left: 15px;
+    color:#fff;
+    margin:auto;
+    
 }
 
-.Baki {
-display: flex;
-Justify-content: center;
-align-content: center;
-flex-direction: row;
-}
+
 
 
 
