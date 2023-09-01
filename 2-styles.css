@@ -191,13 +191,13 @@ button {
 }
 
 .lorem {
-    margin: 10px;
-    margin-left: 22%;
+    Position: relative;
+    top: 25px;
+    left: 15px;
 }
 
 .Baki {
-    display: flex;
-    Justify-content: center;
+   
 }
 
 
