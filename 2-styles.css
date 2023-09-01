@@ -197,7 +197,8 @@ button {
 }
 
 .Baki {
-   
+display: flex;
+Justify-content: center;
 }
 
 
