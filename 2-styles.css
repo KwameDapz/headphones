@@ -185,13 +185,12 @@ button {
 }
 
 .out {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+    display: flex;
+    align-items: center;
+
 }
 .box-1{
-    width: 6%;
-    height: 1%;
+
 }
 
 
