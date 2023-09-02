@@ -109,6 +109,7 @@ div a {
 }
 
 .long {
+    color:#fff
     width: 40rem;
     margin-left: 6rem;
 }
@@ -183,6 +184,7 @@ button {
     align-items: center;
     gap: 1.0rem; 
 }
+.out 
 
 
 
