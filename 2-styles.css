@@ -184,7 +184,10 @@ button {
     align-items: center;
     gap: 1.0rem; 
 }
-.out 
+.out {
+    display: flex;
+    flex-direction: row;
+}
 
 
 
