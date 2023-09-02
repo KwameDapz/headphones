@@ -186,7 +186,7 @@ button {
 
 .out {
     display: flex;
-    justify-content: center;
+   align-Items: center;
     gap:1.0rem;
 }
 
