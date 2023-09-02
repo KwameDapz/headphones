@@ -187,6 +187,7 @@ button {
 .out {
     display: flex;
     flex-direction: row;
+    gap: 1.0rem;
 }
 
 
