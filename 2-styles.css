@@ -184,13 +184,19 @@ button {
     align-items: center;
     gap: 1.0rem; 
 }
+
 .out {
     display: flex;
     flex-direction: row;
     gap: 1.0rem;
 }
 
-
+.baki {
+    position: relative;
+    top: 20%;
+    left: 20%;
+    display: flex;
+}
 
 
 
