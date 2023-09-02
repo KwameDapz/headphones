@@ -189,7 +189,7 @@ button {
     display: flex;
     flex-direction: row;
     gap: 1.0rem;
-    justify-content: center;
+    align-items: center;
 }
 
 
