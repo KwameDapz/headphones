@@ -33,7 +33,7 @@ body {
 .cover-page{
     overflow: hidden;
     border: 0px;
-    height: 70rem;
+    height: 50rem;
     width: auto;
     background-image: url(images/headphones_hero_1.jpg)
 }
