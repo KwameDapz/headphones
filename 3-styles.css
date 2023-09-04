@@ -265,7 +265,7 @@ button {
     height: 45rem;
     width: 60rem;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
 }
 
 
