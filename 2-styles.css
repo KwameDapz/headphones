@@ -203,7 +203,7 @@ button {
 .baki {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
 }
 
 .box-2 {
