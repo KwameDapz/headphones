@@ -185,14 +185,11 @@ button {
     gap: 1.0rem; 
 }
 
-.box-1 {
+.out {
     display: flex;
     flex-direction: row;
     gap: 1.0rem;
     justify-content: space-evenly;
-    background-image: url(images/pentagone.png); 
-    height: 250px;
-    width: 250px;
 }
 
 
