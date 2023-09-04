@@ -201,6 +201,7 @@ button {
     width: 250px;
     display: grid;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .box-2 {
