@@ -260,6 +260,36 @@ button {
     line-height: 1.625rem;
 }
 
+contact {
+    background: #fff;
+    height: 45rem;
+    width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.625rem
+}
+
+.pink{
+    color: #FFF;
+    text-align: center;
+    font-family: Spin-Cycle-OT;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 1.375rem;
+    background: #FF6565;
+    width: 10.125rem;
+    height: 2.75rem;
+    margin: 2%;
+}
+
 
 
 
