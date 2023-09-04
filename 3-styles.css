@@ -262,8 +262,8 @@ button {
 
 .contact {
     background: #fff;
-    height: 45rem;
-    width: 60rem;
+    height: 50rem;
+    width: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
