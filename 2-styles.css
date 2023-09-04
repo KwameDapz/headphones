@@ -200,7 +200,6 @@ button {
     height: 250px;
     width: 250px;
     display: flex;
-    align-items: center;
 }
 
 .box-2 {
