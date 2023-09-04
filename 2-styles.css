@@ -194,7 +194,8 @@ button {
 
 .box-1 {
     background-image: url(images/pentagone.png);
-    background-size: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 300px;
     width: 300px;
     border: 2px solid;
