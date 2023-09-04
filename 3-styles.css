@@ -261,7 +261,6 @@ button {
 }
 
 .contact {
-    background: #fff;
     display: flex;
     flex-direction: column;
     align-items: center;
