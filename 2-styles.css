@@ -198,7 +198,7 @@ button {
     background-repeat: no-repeat;
     height: 250px;
     width: 250px;
-    align-self: center;
+    text-align: center;
 }
 
 .box-2 {
