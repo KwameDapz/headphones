@@ -191,7 +191,6 @@ button {
     gap: 1.0rem;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
 }
 
 .box-1 {
@@ -200,6 +199,8 @@ button {
     background-repeat: no-repeat;
     height: 250px;
     width: 250px;
+    display: flex;
+    
 }
 
 .box-2 {
