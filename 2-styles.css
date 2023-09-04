@@ -191,6 +191,7 @@ button {
     gap: 1.0rem;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .box-1 {
