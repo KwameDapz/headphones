@@ -198,8 +198,11 @@ button {
     background-repeat: no-repeat;
     height: 250px;
     width: 250px;
-    display: grid;
-    align-items: center;
+}
+
+.baki {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .box-2 {
