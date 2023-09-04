@@ -192,6 +192,11 @@ button {
     justify-content: space-evenly;
 }
 
+.box-1 {
+    background-image: url(images/pentagone.png);
+    width:350px;
+    height: 350px;
+}
 
 
 
