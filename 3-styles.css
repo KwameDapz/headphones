@@ -264,6 +264,9 @@ button {
     background: #fff;
     height: 45rem;
     width: 60rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
