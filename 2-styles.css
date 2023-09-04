@@ -193,10 +193,10 @@ button {
 }
 
 .box-1 {
-    background-image: url(images/pentagone.png);
-    width:250px;
-    height: 250px;
-    border: 1px;
+    background-image: url(image/pentagone.png);
+    background-size: 150px;
+    height: 300px;
+    width: 300px;
 }
 
 
