@@ -190,6 +190,7 @@ button {
     flex-direction: row;
     gap: 1.0rem;
     align-items: center;
+    justify-content: center;
 }
 
 .box-1 {
