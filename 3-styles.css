@@ -293,6 +293,10 @@ button {
     justify-content: flex-start;
 }
 
+.lists {
+    display: flex;
+}
+
 
 
 
