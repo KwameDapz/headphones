@@ -288,7 +288,10 @@ button {
     background-color: #071629;
 }
 
-
+.logo {
+    display: flex;
+    justify-content: flex-start;
+}
 
 
 
